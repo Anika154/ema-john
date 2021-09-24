@@ -7,3 +7,11 @@
     margin-right: 5px;
     margin-left: 50px;
 }
+.search-container{
+    background-color: rgb(0, 0, 0, 0.918);
+    text-align: center;
+    line-height: 40px;
+}
+.search-container input{
+    width: 75%;
+}
